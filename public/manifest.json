@@ -1,0 +1,12 @@
+{
+  "name": "Anura Typescript Template",
+  "type": "auto",
+  "package": "anura.template.typescript",
+  "index": "index.html",
+  "icon": "libtest.png",
+  "wininfo": {
+    "title": "Anura Typescript Template",
+    "width": "800px",
+    "height": "600px"
+  }
+}
